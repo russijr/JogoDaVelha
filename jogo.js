@@ -6,7 +6,6 @@ const jogador2 = "Shuriken";
 var vezJogador = jogador2;
 var fimDeJogo = false;
 
-var som = document.getElementById('som');
 //iniciando as funções do projeto
 atualizaMostrador();
 inicializarCaixa();
