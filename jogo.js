@@ -2,6 +2,8 @@
 const jogador1 = "Kunai";
 const jogador2 = "Shuriken";
 
+
+
 //variável para salvar a vez do jogador e o fim do jogo
 var vezJogador = jogador2;
 var fimDeJogo = false;
